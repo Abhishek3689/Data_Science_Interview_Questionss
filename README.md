@@ -1,6 +1,6 @@
 # Data Science Interview Preparation
 
-Welcome to the Data Science Interview Preparation repository! This repository is a curated collection of important questions commonly asked in data science interviews. Whether you are a beginner or an experienced data scientist, these questions cover a wide range of topics to help you prepare for success.
+Welcome to the Data Science Interview Preparation repository. This repository is a curated collection of important questions commonly asked in data science interviews. Whether you are a beginner or an experienced data scientist, these questions cover a wide range of topics to help you prepare for success.
 
 ## Table of Contents
 
